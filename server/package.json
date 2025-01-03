@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "El api de la web",
   "main": "index.js",
+  "repository": {
+    "url": " https://github.com/berpc/sustentable",
+    "type": "git"
+  },
+ 
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js",
